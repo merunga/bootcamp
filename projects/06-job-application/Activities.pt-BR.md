@@ -22,7 +22,7 @@
       <ul>
         <li>Readme do projeto</li>
         <li>
-          <a href="https://www.loom.com/share/eff20dfbb64a488abb6181acd95a8dbf">Pílula: Como funciona um processo de seleção</a>
+          <a href="https://docs.google.com/presentation/d/180yL2sraRVYradVSqmX--MHncpTmZwXt/edit?rtpof=true">Pílula: Como funciona um processo de seleção</a>
           <a href="https://docs.google.com/presentation/d/1fJFVEgBx-xO9lTaXMDMposMpfcoRX6FqWwWi2n9rCyU/edit#slide=id.p1">
             (PPT)
           </a>
@@ -136,7 +136,7 @@
           </a>
         </li>
         <li>
-          <a href="https://drive.google.com/file/d/1BJz3dWOzIUAoTyCclnKpZlQRRAZ4vxv_/view?usp=sharing">
+          <a href="https://www.loom.com/share/8d7ab5f0b0a849f599d97d7c3212bb18">
             Píldora: Negociación salario y condiciones laborales.
           </a>
           <a href="https://docs.google.com/presentation/d/1bdxzpvUCxvIphQXvM2DkdcSdtRh43JjHUB-wbOIQJog/edit#slide=id.p1">
@@ -344,7 +344,7 @@
          <a href="https://www.youtube.com/watch?v=vQ_EBqgUR0c">
             Pílula: Recomendações para criar seu perfil no Github.
           </a>
-          <a href="https://docs.google.com/presentation/d/1Ntaj8IuE4Fcbe6Pbwt1bZwu2f6brA468oKmK6Qefs5s/edit#slide=id.g9d12fce375_0_22">
+          <a href="https://docs.google.com/presentation/d/180yL2sraRVYradVSqmX--MHncpTmZwXt/edit?rtpof=true">
             (PPT)
           </a>
         </li>
